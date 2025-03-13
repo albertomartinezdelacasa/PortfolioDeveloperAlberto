@@ -26,7 +26,7 @@ function Projects() {
                 "¿Quieres vivir la experiencia milenial? sortea todos los problemas mientras acumulas deuda emomcional",
             image: "./upload/MILENIAL.png",
             technologies: ["JavaScript", "CSS", "HTML"],
-            link: "albertomartinezdelacasa.github.io/milenialgame/",
+            link: "https://albertomartinezdelacasa.github.io/milenialgame/",
         },
         {
             id: 3,
