@@ -8,7 +8,7 @@ function Home() {
             title: "InnovaSpace",
             description:
                 "Un proyecto full-stack CRUD de una empresa de coworking social.Donde los usuarios pueden reservar, puntuar y opiniar las oficinas.",
-            image: "./upload/INNO.png",
+            image: "/upload/INNO.png",
             technologies: [
                 "React",
                 "Node.js",
@@ -24,16 +24,16 @@ function Home() {
             title: "Milenial, the game",
             description:
                 "¿Quieres vivir la experiencia milenial? sortea todos los problemas mientras acumulas deuda emomcional",
-            image: "./upload/MILENIAL.png",
+            image: "/upload/MILENIAL.png",
             technologies: ["JavaScript", "CSS", "HTML"],
-            link: "albertomartinezdelacasa.github.io/milenialgame/",
+            link: "https://albertomartinezdelacasa.github.io/milenialgame/",
         },
         {
             id: 3,
             title: "Pokedex",
             description:
                 "Un clasico de entre los clasicos. Llamada a una api y un buscador para encontrar a tu pokemon favorito. El primer proyecto. Ay, se me ha metido algo en el ojo.",
-            image: "./upload/pokedex.png",
+            image: "/upload/pokedex.png",
             technologies: ["CSS", "JavaScript", "HTML"],
             link: "https://aperezbanks.github.io/Visualizador_Pokemon01/",
         },
